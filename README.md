@@ -1,1 +1,1 @@
-# this is some text for lab1
+# CSE 29 • Lab 1
